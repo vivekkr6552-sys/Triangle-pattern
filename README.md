@@ -1,1 +1,1 @@
-# Triangle-pattern
+# Pattern printing
